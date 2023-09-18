@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: After determining that sort2 was Merge Sort, I could see that sort1 generally outperformed sort3 on sorted data sets (best case scenario/Omega for Bubble)
+
+sort2 uses: Merge Sort
+
+How do you know?: Initially I could see that it outperformed sort1 and sort3 on the large random number set, which we would expect of merge sort as the data set grows higher.
+
+sort3 uses: Selection Sort
+
+How do you know?: By process of elimination, as well as assessing its behavior for the three data sets it was clear the final sort must be Selection sort.
